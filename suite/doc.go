@@ -32,8 +32,8 @@
 //     // Basic imports
 //     import (
 //         "testing"
-//         "github.com/stretchr/testify/assert"
-//         "github.com/stretchr/testify/suite"
+//         "github.com/calmisland/go-testify/assert"
+//         "github.com/calmisland/go-testify/suite"
 //     )
 //
 //     // Define the suite, and absorb the built-in basic suite

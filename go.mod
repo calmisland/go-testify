@@ -1,4 +1,4 @@
-module github.com/stretchr/testify
+module github.com/calmisland/go-testify
 
 require (
 	github.com/davecgh/go-spew v1.1.0
