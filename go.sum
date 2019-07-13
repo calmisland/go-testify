@@ -1,6 +1,7 @@
 github.com/calmisland/go-difflib v1.0.1 h1:tfci468YtnjTC0pUOKRmnmpImkC2Z9siy4z94XM9bM0=
 github.com/calmisland/go-difflib v1.0.1/go.mod h1:xvL8JWRWveQaQ9qymwmu4Rq05T5HzvHMqHtWi6eVUhI=
-github.com/calmisland/go-objx v0.2.2 h1:wJ1yx4IKFYfyRECdk7S8fvpuGukdXYiNAXufK0DKRvQ=
+github.com/calmisland/go-objx v0.2.2 h1:qMfTDqUXOJSz4oLOVW0BHl+PrVADEPEacP8mRd5OrlA=
 github.com/calmisland/go-objx v0.2.2/go.mod h1:Ir2IIp28cRXcBJusJfHLYDWLB0Tbduf6BXylF615goM=
 github.com/calmisland/go-spew v1.1.1 h1:5/4iwGVUGLg8Fo4t99k/f8xSVLjeB7PzflE1bZkY3bQ=
 github.com/calmisland/go-spew v1.1.1/go.mod h1:SGaf4jeF9E0pF2t89ndda4FVaBNZfNqOWSD1bxnUyqA=
+github.com/calmisland/go-testify v1.3.2/go.mod h1:Dt2LylA0rh+HFuRaOyf08mdGEsXGBdOLqyqOLmSsal4=
