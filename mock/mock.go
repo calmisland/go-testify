@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/davecgh/go-spew/spew"
-	"github.com/pmezard/go-difflib/difflib"
-	"github.com/stretchr/objx"
+	"github.com/calmisland/go-spew/spew"
+	"github.com/calmisland/go-difflib/difflib"
+	"github.com/calmisland/go-objx"
 	"github.com/calmisland/go-testify/assert"
 )
 
